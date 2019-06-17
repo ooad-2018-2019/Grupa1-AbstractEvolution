@@ -1,0 +1,14 @@
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\bin\Debug\netcoreapp2.1\OOADProjekat.deps.json
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\bin\Debug\netcoreapp2.1\OOADProjekat.runtimeconfig.json
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\bin\Debug\netcoreapp2.1\OOADProjekat.runtimeconfig.dev.json
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\bin\Debug\netcoreapp2.1\OOADProjekat.dll
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\bin\Debug\netcoreapp2.1\OOADProjekat.pdb
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\obj\Debug\netcoreapp2.1\OOADProjekat.csprojAssemblyReference.cache
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\obj\Debug\netcoreapp2.1\OOADProjekat.csproj.CoreCompileInputs.cache
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\obj\Debug\netcoreapp2.1\OOADProjekat.RazorAssemblyInfo.cache
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\obj\Debug\netcoreapp2.1\OOADProjekat.RazorAssemblyInfo.cs
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\obj\Debug\netcoreapp2.1\OOADProjekat.AssemblyInfoInputs.cache
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\obj\Debug\netcoreapp2.1\OOADProjekat.AssemblyInfo.cs
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\obj\Debug\netcoreapp2.1\OOADProjekat.RazorTargetAssemblyInfo.cache
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\obj\Debug\netcoreapp2.1\OOADProjekat.dll
+C:\Users\talir\RiderProjects\Grupa1-AbstractEvolution\Implementacija\OOADProjekat\OOADProjekat\obj\Debug\netcoreapp2.1\OOADProjekat.pdb

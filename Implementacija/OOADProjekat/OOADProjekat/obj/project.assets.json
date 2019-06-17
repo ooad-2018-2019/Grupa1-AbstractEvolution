@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\talir\\RiderProjects\\OOADProjekat\\OOADProjekat\\OOADProjekat.csproj",
+      "projectUniqueName": "C:\\Users\\talir\\RiderProjects\\Grupa1-AbstractEvolution\\Implementacija\\OOADProjekat\\OOADProjekat\\OOADProjekat.csproj",
       "projectName": "OOADProjekat",
-      "projectPath": "C:\\Users\\talir\\RiderProjects\\OOADProjekat\\OOADProjekat\\OOADProjekat.csproj",
+      "projectPath": "C:\\Users\\talir\\RiderProjects\\Grupa1-AbstractEvolution\\Implementacija\\OOADProjekat\\OOADProjekat\\OOADProjekat.csproj",
       "packagesPath": "C:\\Users\\talir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\talir\\RiderProjects\\OOADProjekat\\OOADProjekat\\obj\\",
+      "outputPath": "C:\\Users\\talir\\RiderProjects\\Grupa1-AbstractEvolution\\Implementacija\\OOADProjekat\\OOADProjekat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
