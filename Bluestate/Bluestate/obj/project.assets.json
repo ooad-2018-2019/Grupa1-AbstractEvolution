@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kerim/RiderProjects/Bluestate/Bluestate/Bluestate.csproj",
+      "projectUniqueName": "/Users/kerim/RiderProjects/Grupa1-AbstractEvolution/Bluestate/Bluestate/Bluestate.csproj",
       "projectName": "Bluestate",
-      "projectPath": "/Users/kerim/RiderProjects/Bluestate/Bluestate/Bluestate.csproj",
+      "projectPath": "/Users/kerim/RiderProjects/Grupa1-AbstractEvolution/Bluestate/Bluestate/Bluestate.csproj",
       "packagesPath": "/Users/kerim/.nuget/packages/",
-      "outputPath": "/Users/kerim/RiderProjects/Bluestate/Bluestate/obj/",
+      "outputPath": "/Users/kerim/RiderProjects/Grupa1-AbstractEvolution/Bluestate/Bluestate/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
