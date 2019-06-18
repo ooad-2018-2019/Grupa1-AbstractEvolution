@@ -26,7 +26,7 @@ namespace Bluestate.Controllers {
 
             if (validationOk) {
                 database.Korisnik.Add(new Kupac {
-                    ImePrezime = etFirstName,
+                    ImePrezime = etFirstName+" "+etLastName,
                     Username = etUsername,
                     Password = etPassword,
                     Email = etEmail,

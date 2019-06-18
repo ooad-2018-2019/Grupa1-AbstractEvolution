@@ -1,30 +1,46 @@
-﻿<!DOCTYPE html>
+﻿@model Korisnik
+<!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>loginForma</title>
+    <title>user home</title>
     <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="~/css/Login-Form-Dark.css" rel="stylesheet" />
+    <link href="~/css/Map-Clean.css" rel="stylesheet" />
+    <link href="~/css/Navigation-with-Button.css" rel="stylesheet" />
+    <link href="~/css/Navigation-with-Search.css" rel="stylesheet" />
+    <link href="~/css/Registration-Form-with-Photo.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet" />
     <link href="~/css/styles.css" rel="stylesheet" />
 </head>
+
 <body>
-    <div class="login-dark">
-        @using (Html.BeginForm("SignIn", "Home")) {
-            <form method="post">
-                <h2 class="sr-only">Login Form</h2><img class="img-fluid" src="~/img/mhsc-logo.png">
-                <div class="illustration"></div>
-                <div class="form-group"><input class="form-control" type="text" name="etUsername" placeholder="Username"></div>
-                <div class="form-group"><input class="form-control" type="password" name="etPassword" placeholder="Password"></div>
-                <div class="btn-group" role="group">
-                    <button class="btn btn-primary btn-lg" id="btnSignIn" type="submit" style="background: #40A15D; border-top-right-radius: 5px; border-bottom-right-radius: 5px;">Sign in</button>
-                    @Html.ActionLink("Sign up", "Index", "RegisterUser", null, new { @class = "btn btn-primary btn-lg", style = "position: relative;background: #40A15D;left: 70px; border-top-left-radius: 5px; border-bottom-left-radius: 5px;", type = "submit" })
-                </div>
-                <div class="btn-group" role="group"></div>
-            </form>
+    <div></div>
+    <nav class="navbar navbar-light navbar-expand-md navigation-clean-search">
+        <div class="container">
+            <button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button><img src="~/img/bluestate.jpg" width="150">
+            <div class="collapse navbar-collapse" id="navcol-1">
+                <ul class="nav navbar-nav">
+                    <li class="nav-item" role="presentation"></li>
+                    <li class="nav-item" role="presentation"></li>
+                    <li class="nav-item" role="presentation"></li>
+                </ul>
+              
+                @Html.ActionLink("Sign out", "UserSignOut_OnClick", "User", null, new { @class = "btn btn-light action-button", style = "margin-right: 10px;border-radius: 20px;border-color: #7BDC97;", type = "button" })
+            </div>
+        </div>
+    </nav>
+    <style>
+        #map {
+            height: 700px;
+            width: 1100px;
+            align-content: center;
+            align-items: center;
+            align-self: center
         }
-    </div>
-    <script src="~/js/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    </style>
+
 </body>
+
 </html>

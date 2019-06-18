@@ -8,7 +8,7 @@ using Bluestate.Models;
 
 namespace Bluestate.Controllers
 {
-    public class HomeController : Controller
+    public class LoginController : Controller
     {
         private static DatabaseContext database = DatabaseContext.getInstance();
         public static Korisnik currentyLoggedPerson = null;
@@ -37,7 +37,6 @@ namespace Bluestate.Controllers
             if (!data.Any() && !dataAdmin.Any())
                 return View("Index");
             else if (!dataAdmin.Any()) {
-                // User || Employee
                 currentyLoggedPerson = data.First();
             }
            /* currentyLoggedAdministrator = dataAdmin.First();*/
