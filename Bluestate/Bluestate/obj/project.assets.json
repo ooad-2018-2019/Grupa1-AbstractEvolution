@@ -12075,30 +12075,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kerim\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/kerim/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kerim\\Source\\Repos\\Grupa1-AbstractEvolution\\Bluestate\\Bluestate\\Bluestate.csproj",
+      "projectUniqueName": "/Users/kerim/RiderProjects/Grupa1-AbstractEvolution/Bluestate/Bluestate/Bluestate.csproj",
       "projectName": "Bluestate",
-      "projectPath": "C:\\Users\\Kerim\\Source\\Repos\\Grupa1-AbstractEvolution\\Bluestate\\Bluestate\\Bluestate.csproj",
-      "packagesPath": "C:\\Users\\Kerim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kerim\\Source\\Repos\\Grupa1-AbstractEvolution\\Bluestate\\Bluestate\\obj\\",
+      "projectPath": "/Users/kerim/RiderProjects/Grupa1-AbstractEvolution/Bluestate/Bluestate/Bluestate.csproj",
+      "packagesPath": "/Users/kerim/.nuget/packages/",
+      "outputPath": "/Users/kerim/RiderProjects/Grupa1-AbstractEvolution/Bluestate/Bluestate/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Kerim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/kerim/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

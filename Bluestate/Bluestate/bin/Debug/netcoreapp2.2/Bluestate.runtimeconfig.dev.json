@@ -1,9 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Kerim\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Kerim\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/Users/kerim/.dotnet/store/|arch|/|tfm|",
+      "/Users/kerim/.nuget/packages",
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ]
   }
 }
