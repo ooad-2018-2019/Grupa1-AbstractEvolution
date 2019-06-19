@@ -1,0 +1,35 @@
+@model Nekretnina
+
+@{
+    ViewData["Title"] = "Detalji";
+}
+
+<h1>Detalji o nekretnini</h1>
+
+<div>
+    <h4>Nekretnina</h4>
+    <hr />
+    <dl class="container">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Naziv)
+        </dt>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Cijena)
+        </dt>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Prodavac)
+        </dt>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Adresa)
+        </dt>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Opis)
+        </dt>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Kvadratura)
+        </dt>
+    </dl>
+</div>
+<div>
+    <a asp-action="VratiNazad">Nazad na pocetnu</a>
+</div>

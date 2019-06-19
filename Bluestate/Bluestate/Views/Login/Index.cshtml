@@ -20,9 +20,14 @@
                     <button class="btn btn-primary btn-lg" id="btnSignIn" type="submit" style="background: #40A15D; border-top-right-radius: 5px; border-bottom-right-radius: 5px;">Sign in</button>
                     @Html.ActionLink("Sign up", "Index", "RegisterUser", null, new { @class = "btn btn-primary btn-lg", style = "position: relative;background: #40A15D;left: 70px; border-top-left-radius: 5px; border-bottom-left-radius: 5px;", type = "submit" })
                 </div>
+                
                 <div class="btn-group" role="group"></div>
                 
-                </form>
+                <div class="btn-group" role="group">
+                    @Html.ActionLink("Pregledaj nekretnine", "Index", "Nekretnina", null, new { @class = "btn btn-primary btn-lg", style = "position: relative;background: #40A15D;left: 100px; border-top-left-radius: 5px; border-bottom-left-radius: 5px;", type = "submit" })
+                </div>
+                
+            </form>
         }
     </div>
     <script src="~/js/jquery.min.js"></script>
