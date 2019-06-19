@@ -5,13 +5,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>registracija</title>
-    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="~/css/Login-Form-Dark.css" rel="stylesheet" />
-    <link href="~/css/styles.css" rel="stylesheet" />
 </head>
 
 <body>
-<div class="login-dark">
+<div class="login">
     @using (Html.BeginForm("Validate", "RegisterUser")) {
         <form method="post">
             <h2 class="sr-only">Login Form</h2><img class="img-fluid" src="~/img/bluestate.jpg"><small class="form-text text-muted">Enter the info down below.</small>

@@ -32,15 +32,7 @@ namespace Bluestate.Controllers
         
         [HttpPost]
         public IActionResult SignIn(string etUsername, string etPassword) {
-            var dataAdmin = database.Administrator.Where((Admin administrator) => administrator.Username.Equals(etUsername) && administrator.Password.Equals(etPassword));
-            var data = database.Korisnik.Where((Korisnik person) => person.Username.Equals(etUsername) && person.Password.Equals(etPassword));
-            if (!data.Any() && !dataAdmin.Any())
-                return View("Index");
-            else if (!dataAdmin.Any()) {
-                currentyLoggedPerson = data.First();
-            }
-           /* currentyLoggedAdministrator = dataAdmin.First();*/
-            return View("Index");
+            return View("../Pocetna/Pocetna");
         }
     }
 }
