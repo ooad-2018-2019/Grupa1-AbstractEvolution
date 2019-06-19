@@ -42,6 +42,8 @@ Prodavač koji želi prodati određeni objekat ima mogućnost objavljivanja isto
 - **Korisnik** (mogućnost pretrage, a za registrovane kupce i kupovina, odnosno kontaktiranje prodavača)
 - **Prodavač** (osoba/firma koja daje mogućnost kupovine, ažurira informacije o nekretnini po potrebi)
 
+Link: https://bluestate.azurewebsites.net/
+
 <p align="center">
   <img src= "https://user-images.githubusercontent.com/44180058/55347963-59453680-54b6-11e9-9b31-2ca6f2e4b8c6.jpeg">
 </p>
